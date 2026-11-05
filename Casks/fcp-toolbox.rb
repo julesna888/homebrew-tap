@@ -1,6 +1,6 @@
 cask "fcp-toolbox" do
-  version "0.13.8"
-  sha256 "4fd100e1a587dbbadd10077245cb2ab464a19ad3bf4d5fa03353ea33957e2237"
+  version "0.13.9"
+  sha256 "be72a430d7f730bc580f6d5d6ba0023b961a492f5a8a5380487817e47704b378"
 
   url "https://github.com/julesna888/fcp-toolbox/releases/download/v#{version}/FCP-Toolbox-#{version}.dmg"
   name "FCP Toolbox"
